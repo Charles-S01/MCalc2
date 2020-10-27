@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mortgage</string>
+    <string name="principleView">Principle (in dollars)</string>
+    <string name="button">Monthly Payment</string>
+    <string name="amortizationView">Amortization (in years)</string>
+    <string name="interestView">Interest (as an annual percent)</string>
+</resources>
